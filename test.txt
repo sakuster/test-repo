@@ -1,1 +1,3 @@
 this is something i added from desktop
+
+branches are when you clone the project to work on an issue and then sync it back when you've fixed it
